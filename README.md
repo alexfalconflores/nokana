@@ -3,11 +3,7 @@
 </p>
 
 # Nokana
-Welcome to the official repo for **Nokana**. 
-
-It's a desktop app. It primarily uses **UWP** and **C#**. 
-
-⚒️ **Work in progress**. For the Application Web, it uses **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**. ⚒️ **Work in progress**
+Welcome to the official repo for **Nokana**.
 
 <br>
 
