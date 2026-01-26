@@ -12,7 +12,25 @@ Welcome to the official repo for **Nokana**.
 </a>
 
 ### Description
-Nokana is an innovative note storage application designed to boost productivity and organization. With Nokana, you can create and organize your notes into personalized workspaces, allowing you to keep all your important information in one place. Capture ideas, to-dos, reminders and more quickly and easily. Nokana's intuitive interface allows you to easily access your notes at any time and from any device - simplify your life and streamline your workflow with Nokana!"
+Nokana is the note-taking app designed to feel right at home on Windows. Forget slow web apps; Nokana is fast, smooth, and respects your privacy by storing everything locally on your device.
+
+Whether you're a student, developer, or just someone who likes to keep everything organized, Nokana adapts to you. Create multiple “Workspaces” to separate your personal life from your work projects.
+
+Key Features:
+
+📝 Rich Text Editor: Write freely. Bold, italics, lists, and more. Everything you need to express yourself.
+
+📂 Workspaces: Organize your notes into separate categories (Work, Personal, College) to stay focused.
+
+🖼️ Image Support: Drag and drop images directly into your notes. View them in a built-in gallery or within the text.
+
+🔒 Local Privacy: Your data is yours. Nokana uses a local SQLite database. Nothing is uploaded to the cloud without your permission.
+
+🚀 Export and Backups: Need to share? Export your notes individually to a ZIP file (with images included) or make a complete backup of the entire application in seconds.
+
+🎨 Modern Design: Enjoy a clean interface that supports Light and Dark themes, integrating seamlessly with your Windows style.
+
+Download Nokana today and start organizing your ideas elegantly and quickly.
 
 <br>
 
@@ -22,9 +40,6 @@ Nokana is an innovative note storage application designed to boost productivity 
 ![screenshot 4](images/4.jpg)
 ![screenshot 5](images/5.jpg)
 ![screenshot 6](images/6.jpg)
-![screenshot 7](images/7.jpg)
-![screenshot 8](images/8.jpg)
-![screenshot 9](images/9.jpg)
 
 ---
 
